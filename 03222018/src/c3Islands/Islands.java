@@ -1,4 +1,4 @@
-package islands;
+package c3Islands;
 
 public class Islands {
 	public static void main(String[]args) {
